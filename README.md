@@ -19,7 +19,7 @@ Built with Dash and Bootstrap for a dark-themed modern UI
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/Log-Analyzer.git
+   git clone https://github.com/AkshayXploit/Log-Analyzer.git
    cd Log-Analyzer
 
    Run the app
